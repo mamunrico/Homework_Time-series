@@ -1,4 +1,8 @@
 Time Series Forecasting and Linear Regression Modeling analysis for Japanese Yen and CAD.
+
+
+
+
 # Time Seriers Analysis
 Time Series Forecasting and Linear Regression Modeling analysis for Japanese Yen.
 
